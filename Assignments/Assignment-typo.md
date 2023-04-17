@@ -20,7 +20,7 @@ In the world of [hackers](http://www.catb.org/~esr/faqs/hacker-howto.html), the
 
 Now that use of open source has become widespread, you can often get as good answers from other, more experienced users as from hackers. This is a Good Thing; users tend to be just a little bit more tolerant of the kind of failures newbies often have. Still, treating experienced users like hackers in the ways we recommend here will generally be the most effective way to get useful answers out of them, too.
 
-The first thing to understand is that hackers actually like hard problems and good, thought-provoking questions about them. If we didn't, we wouldn't be here. If you give us an interesting question to chew on we'll be grateful to you; good questions are a stimulus and a gift. Good questions help us develop our understanding, and often reveal problems we might not have noticed or thought about otherwise. Among hackers, "Good question!" is a strong and sincere compliment.
+The first thing to understand is that hackers actually like hard problems and good, thought-provoking questions about them. If we didn't, we wouldn't be here. If you give us an interesting question to chew on we'll be grateful to you; good questions are a stimulus and a gift. Good questions help us develop our understanding, and often reveal problems we might not have noticed or thought about otherwise. Among hackers,"Good question!"is a strong and sincere compliment.
 
 Despite this, hackers have a reaputation for meeting simple questions with what looks like hostility or arrogance. It sometimes looks like we're reflexively rude to newbies and the ignorant. But this isn't really true.
 
@@ -434,15 +434,15 @@ Get over it. It's normal. In fact, it's healthy and appropriate.
 
 Community standards do not maintain themselves: They're maintained by people actively applying them, visibly, *in public*. Don't whine that all criticism should have been conveyed via private e-mail: That's not how it works. Nor is it useful to insist you've been personally insulted when someone comments that one of your clams was wrong, or that his views differ. Those are loser attitudes.
 
-There have been hacker forums where, out of some misguided sense of hyper-courtesy, participants are banned from posting any fault-finding with another's posts, and tld "Don't say anything if you're unwilling to help the user." The resulting departure of clueful participants to elsewhere causes them to descend into meaningless babble and become useless as technical forums.
+There have been hacker forums where, out of some misguided sense of hyper-courtesy, participants are banned from posting any fault-finding with another's posts, and told "Don't say anything if you're unwilling to help the user." The resulting departure of clueful participants to elsewhere causes them to descend into meaningless babble and become useless as technical forums.
 
-Exaggeratedly "friendly" (in that feshion) or useful: Pick one.
+Exaggeratedly "friendly" (in that fashion) or useful: Pick one.
 
 Remember: When that hacker tells you that you've screwed up, and (no matter how gruffly) tells you not to do it again, he's acting out of concern for (1) you and (2) his community. It would be much eaier for him to ignore you and filter you out of his life. If you can't manage to be grateful, at least have a little dignity, don't whine, and don't expect to be treated like a fragile doll just because you're a newcomer with a theatrically hypersensitive soul and delusions of entitlement.
 
-Sometimes people will attack you personally, flame without an apparent reason, etc., even if you don't screw up (or have only screwed up in their imgination). In this case, complaining is the way to *really* screw up.
+Sometimes people will attack you personally, flame without an apparent reason, etc., even if you don't screw up (or have only screwed up in their imagination). In this case, complaining is the way to *really* screw up.
 
-These flamers are either lamers who don't have a clue but believe themselves to be experts, or would-be psychologists tsting whether you'll screw up. The other readers either ignore them, or find ways to deal with them on their own. The flamers' behavior creates problems for themselves, which don't have to concern you.
+These flamers are either lamers who don't have a clue but believe themselves to be experts, or would-be psychologists testing whether you'll screw up. The other readers either ignore them, or find ways to deal with them on their own. The flamers' behavior creates problems for themselves, which don't have to concern you.
 
 Don't let yourself be drawn into a flamewar, either. Most flames are best ignored --- after you've checked whe ther they are really flames, not pointers to the ways in which you have screwed up, and not cleverly ciphered answers to your real question (this happens as well).
 
@@ -558,9 +558,9 @@ While muttering RTFM is sometimes justified when rezplying to someone who is jus
 
 Answer the actual question! If the queraent has been so thorough as to do his or her research and has included in the query that X, Y, Z, A, B, and C have already been tried without good result, it is supremely unhelpful to respond with "Try A or B," or with a link to something that only says, "Try X, Y, Z, A, B, or C.".
 
-*Help your community learn from the question.* When you field a good question, ask yourself "How would the relevant documentation or FAQ have to change so that nobody has to answer this again?" Then send a patch to the document maintainer.
+Help your community learn from the question. When you field a good question, ask yourself"How would the relevant documentation or FAQ have to change so that nobody has to answer this again?"Then send a patch to the document maintainer.
 
-If you did research to answer the question, *demonstrate your skills rather then writing as though you pulled the answer out of your butt.* Answering one good question is like feeding a hungry person one meal, but teaching them research skills by example is showing them how to grow food for a lifetime.
+If you did research to answer the question, demonstrate your skills rather than writing as though you pulled the answer out of your butt. Answering one good question is like feeding a hungry person one meal, but teaching them research skills by example is showing them how to grow food for a lifetime.
 
 ## Related Resources
 
@@ -570,4 +570,4 @@ When you release software or write patches for software, try to follow the guide
 
 ## Acknowledgements
 
-Evelyn Mitchell contributed some example stupid questions and inspired the "How To Give A Good Answer" section. Mikhail Ramendik contributed some particularly valuable suggestions for improvements.
+Evelyn Mitchell contributed some example stupid questions and inspired the"How To Give A Good Answer"section. Mikhail Ramendik contributed some particularly valuable suggestions for improvements.
